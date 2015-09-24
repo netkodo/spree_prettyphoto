@@ -8,8 +8,8 @@ Gem::Specification.new do |s|
   s.required_ruby_version = '>= 1.8.7'
 
   s.author    = 'Martin Rychlovsky'
-  s.authors = [ 'Martin Rychlovsky' ]
-  # s.email     = 'rychlovsky@gravastar.cz'
+  #s.authors = [ 'Martin Rychlovsky' ]
+  s.email     = 'rychlovsky@gravastar.cz'
   s.homepage  = 'http://www.gravastar.cz'
 
   #s.files       = `git ls-files`.split("\n")
